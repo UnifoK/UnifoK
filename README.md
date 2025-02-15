@@ -3,4 +3,7 @@
 - 🌱 I’m currently learning GUI and Sharpening my skills on Data Structure and Algorithms.
 - 💞️ I’m looking to collaborate on Project that includes Data Structures to enhance my skills further.
 - 📫 Mail=  sazid413saifi@gmail.com
+-    Deployed Project:
+-    https://cosmetics-sazid.vercel.app/
+-    https://blinkit-app-react-js-sazid.vercel.app/
 
