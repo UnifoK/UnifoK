@@ -43,7 +43,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sazid-saifi/" target="_blank">
+  <a href="https://www.linkedin.com/in/sazid-a30601149/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   <a href="mailto:sazid413saifi@gmail.com">
