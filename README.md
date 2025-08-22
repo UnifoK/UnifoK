@@ -7,7 +7,7 @@
 
 ---
 
-- 💻 I’m interested in **Java, Spring Boot, React, C++, and System Design**
+- 💻 I’m interested in **Java, Spring Boot, React, C++,DSA and System Design**
 - 📚 Currently sharpening my skills in **Data Structures, Algorithms**, and **GUI development**
 - 🤝 Looking to collaborate on **DSA-heavy or Full Stack Java Projects**
 - 🚀 My deployed projects:
